@@ -1,5 +1,4 @@
 # Write a Java program to display n terms of natural numbers and their sum.
-
 import java.util.Scanner;
 
 public class W01_P3 {
