@@ -1,4 +1,5 @@
 # Write a Java program and compute the sum of an integer's digits.
+
 import java.util.Scanner;
 public class W01_P2 {
     public static void main(String[] args) {
